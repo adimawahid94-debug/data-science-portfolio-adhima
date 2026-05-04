@@ -25,5 +25,5 @@ SQL
 Power BI  
 Machine Learning  
 ## 📫 Contact
-- LinkedIn: [ISI LINK LO]
-- GitHub: [ISI LINK LO]
+- LinkedIn: Adhima Wahid Nugroho/ https://www.linkedin.com/in/adhima-wahid-nugroho-424799118
+- GitHub: https://github.com/adimawahid94-debug
