@@ -1,15 +1,29 @@
 # Data Science Portfolio – Adhima Wahid Nugroho
 
-Turning data into actionable business insights through analytics and machine learning.
+Turning data into actionable insights to solve real-world business problems.
 
-## 🔍 Projects
-- Fraud Detection System
-- Customer Churn Prediction
-- E-Commerce Funnel Optimization
+## 🚀 Key Achievements
+- 89% fraud detection rate with optimized recall
+- 0.95 AUC churn prediction model
+- Identified key conversion bottlenecks in e-commerce funnel
+- Improved operational cost efficiency by ~24%
 
-## 🚀 Highlights
-- 89% fraud detection rate
-- 0.95 AUC churn model
-- Improved conversion funnel insights
+## 🧩 Projects
 
-More details coming soon.
+### 🔹 Fraud Detection System
+Machine learning model to detect fraud in highly imbalanced data (~0.17% fraud rate).
+
+### 🔹 Customer Churn Prediction
+Predictive model to identify high-risk customers and reduce revenue loss.
+
+### 🔹 Funnel Optimization & Retention Strategy
+Analysis of customer journey to improve conversion and increase LTV.
+
+## 🛠 Tools & Technologies
+Python (Pandas, NumPy, Scikit-learn)  
+SQL  
+Power BI  
+Machine Learning  
+## 📫 Contact
+- LinkedIn: [ISI LINK LO]
+- GitHub: [ISI LINK LO]
